@@ -1,0 +1,33 @@
+* {
+  scroll-behavior: smooth;
+}
+
+.flex {
+  display: flex;
+}
+
+header {
+  border: 1px solid red;
+  justify-content: space-between;
+  padding: 8px 70px;
+  align-items: center;
+  position: fixed;
+  width: 400px;
+  top: 50%;
+  right: 50%;
+}
+
+header ul {
+  /* background: red; */
+  list-style-type: none;
+  gap: 16px;
+}
+
+header ul li a {
+  text-decoration: none;
+}
+
+section  {
+  height: 600px;
+  border: 1px solid red;
+}
