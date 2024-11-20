@@ -11,10 +11,6 @@ header {
   justify-content: space-between;
   padding: 8px 70px;
   align-items: center;
-  position: fixed;
-  width: 400px;
-  top: 50%;
-  right: 50%;
 }
 
 header ul {
@@ -27,7 +23,39 @@ header ul li a {
   text-decoration: none;
 }
 
-section  {
+section {
   height: 600px;
   border: 1px solid red;
+  overflow: auto;
+}
+
+.sticky-elm h2 {
+  position: sticky;
+  bottom: 0;
+}
+
+.css-list {
+  padding-left: 24px;
+}
+
+.css-list ul {
+  list-style-type: disc;
+  list-style-type: circle;
+  list-style-type: square;
+  /* list-style-type: none; */
+}
+
+.css-list ol {
+  list-style-type: lower-roman;
+  list-style-type: upper-roman;
+  list-style-type: upper-alpha;
+  list-style-type: upper-latin;
+  list-style-type: none;
+}
+.table table {
+  width: 100%;
+}
+.table table td {
+  padding: 8px 12px;
+  text-align: end;
 }
