@@ -32,10 +32,12 @@
 
 ## CSS Position
 
-> default - static
-> relative
-> absolute
-> fixed > browser window
+> default property is static
+
+- default - static
+- relative
+- absolute
+- fixed > browser window
 
 ```css
 
@@ -43,3 +45,45 @@ tag {
   position: relative, static, fixed, absolute, sticky
 }
 ```
+
+## CSS - Position
+
+- Relative - relative to parent
+- Absolute - absolute value to parent
+- Static - default
+- Fixed - browser window
+- Sticky - 
+
+
+## CSS - List
+
+- Ordered list
+- unOrdered list
+- list-style-type
+
+## CSS - Table
+
+> Table row and column 
+> rowspan
+> colspan
+
+
+
+## CSS - Display
+
+> block element = div, p, headings
+
+> inline block = a
+
+> span
+
+- grid => rows/cols
+- flex =>
+- inline-block=>width and height
+- block=>new line
+- inline=>no with and height
+- table
+
+## CSS - z-index
+
+> default is z index = auto
