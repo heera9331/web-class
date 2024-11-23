@@ -14,14 +14,10 @@
 - Assets linking with absolute and relative path
 - Border radius
 - page linking internal and external
-
-## Upcoming Topics
-
 - css position
 - max width
 - z index
 - overflow
-- pseudo class and elements
 
 ## Tasks
 
@@ -63,9 +59,9 @@ tag {
 
 ## CSS - Table
 
-> Table row and column 
-> rowspan
-> colspan
+- Table row and column 
+- rowspan
+- colspan
 
 
 
@@ -87,3 +83,9 @@ tag {
 ## CSS - z-index
 
 > default is z index = auto
+
+
+## Upcoming Topics
+
+- flex and grid
+- pseudo class and elements
