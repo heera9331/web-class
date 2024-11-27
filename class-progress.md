@@ -18,6 +18,7 @@
 - max width
 - z index
 - overflow
+- flex and grid
 
 ## Tasks
 
@@ -87,5 +88,4 @@ tag {
 
 ## Upcoming Topics
 
-- flex and grid
 - pseudo class and elements
